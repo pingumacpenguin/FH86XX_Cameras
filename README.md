@@ -47,6 +47,13 @@ https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/From-Zero-to-Hero-in-5-mi
 
 Take care, as you can now break stuff...
 
+
+What to do if your camera *looks* like an FH86XX camera, but upon opening, it you find it has an AK3918 SoC ?
+Try this repo instead. -> https://github.com/ricardojlrufino/anyka_v380ipcam_experiments
+Details here -> https://ricardojlrufino.wordpress.com/2022/02/14/hack-ipcam-anyka-teardown-and-root-access/
+As I mentioned there are a lot of cameras of similar design, so even if you order a second camera from the same source as your original FH86XX model, you may find its architecture is subtly different in side. 
+
+
 Message me here with a pull request or an issue if you want to contribute. 
 
 Don't expect an instant response as the day job takes up most of my time. 
